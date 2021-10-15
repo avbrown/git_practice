@@ -1,5 +1,3 @@
 # git_practice
 
-This is a test. I don't really know what I'm doing...
-
-This is a test again...
+This is a final test.
